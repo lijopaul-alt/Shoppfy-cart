@@ -1,0 +1,30 @@
+.navbar {
+  display: flex;
+  background-color: #6702a2;
+  justify-content: space-between;
+  color: #eee;
+}
+.icon {
+  margin: 10px 0 0 70px;
+}
+.iconlist {
+  font-size: 30px;
+  list-style-type: none;
+}
+.link {
+  padding-right: 100px;
+  color: white;
+}
+.list:hover {
+  color: yellow;
+  cursor: pointer;
+}
+.navlink {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+}
+.list {
+  padding: 10px 15px 0 15px;
+  font-size: 30px;
+}
